@@ -1,7 +1,7 @@
-num add(x, y) => (x + y);
+add(x, y) => (x + y);
 
 void main() {
 
-	num val = add(10, 2.5);
+	num val = add(10, 12.5);
 	print(val);
 }
