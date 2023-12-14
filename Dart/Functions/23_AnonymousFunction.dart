@@ -6,5 +6,6 @@ var add = (int x, int y) {
 
 void main() {	
 	
+	print(add.runtimeType);	
 	print(add(10, 30));
 }

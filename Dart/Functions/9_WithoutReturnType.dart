@@ -5,6 +5,6 @@ fun() {
 }
 void main() {
 	
-	String val = fun();
-	print(val);
+	var val = fun();
+	print(val.runtimeType);
 }

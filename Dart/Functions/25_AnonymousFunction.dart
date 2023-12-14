@@ -4,4 +4,5 @@ void main() {
 		
 		print(x + y);
 	}(10, 20);
+	
 }

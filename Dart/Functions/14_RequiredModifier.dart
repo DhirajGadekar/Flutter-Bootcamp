@@ -7,5 +7,5 @@ void playerInfo(String team, {required String name, required int jerNo}) {
 
 void main() {
 	
-	playerInfo("India",name : "Rohit", jerNo : 45);
+	playerInfo("India",name : "Rohit", jerNo: 45);
 }
